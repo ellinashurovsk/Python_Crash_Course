@@ -1,0 +1,3 @@
+In Python you can open and read the information from files.
+In Python you can use lists for information presentation.
+In Python you can do all the calculations.
